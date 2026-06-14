@@ -3,6 +3,11 @@
 
 Bu proje, bir e-ticaret platformundaki müşterilerin gelecek 6 ay içindeki terk etme (churn) olasılıklarını tahmin etmek amacıyla geliştirilmiş uçtan uca bir makine öğrenmesi ürünüdür. Proje, sadece istatistiksel teoride kalmayıp, **Python** kullanılarak canlıya alınabilir bir modelleme mimarisine dönüştürülmüş ve doğrudan iş zekasına yönelik stratejik çıktılar üretmiştir.
 
+## 📊 Veri Seti
+Kullanılan veri seti, İngiltere merkezli bir online perakende şirketinin 01/12/2009 - 09/12/2011 tarihleri arasındaki tüm işlemlerini içermektedir. Veri setinin boyutu GitHub sınırlarını aştığı için analizde kullanılan ham verilere aşağıdaki Kaggle bağlantısından ulaşabilirsiniz:
+
+🔗 [Kaggle: Online Retail II Dataset](http://kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
+
 ## 🚀 Projenin İş Değeri ve Hedefleri
 * **CRISP-DM Metodolojisi:** Veriyi anlama aşamasından, modelin canlıya alınabilir stratejiler üretmesine kadar tüm veri madenciliği süreçleri pratik bir yaklaşımla ele alınmıştır.
 * **Erken Müdahale Sistemi:** %60'ın üzerinde churn riski taşıyan müşteriler tespit edilerek, kişiselleştirilmiş pazarlama kampanyaları için hazır bir hedef kitle oluşturulmuştur.
