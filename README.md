@@ -29,12 +29,10 @@ SHAP analizleri sonucunda belirlenen en önemli faktörler ışığında şu str
 ## 📁 Proje Klasör Yapısı
 
 ```text
-├── data/
-│   ├── Year 2009-2010.csv    # Veri setinin ilk kısmı (Boyut sınırından dolayı Github'da yoktur, kaynak linki aşağıdadır)
-│   └── Year 2010-2011.csv    # Veri setinin ikinci kısmı
+
 ├── notebooks/
-│   └── crisp_dm_churn_analizi_v2.ipynb  # Uçtan uca veri işleme, LightGBM modellemesi ve SHAP analizleri
+│   └── crisp_dm_churn_analizi_.ipynb  # Uçtan uca veri işleme, LightGBM modellemesi ve SHAP analizleri
 ├── docs/
-│   └── proje_posteri.pdf     # 3.'lük getiren proje sunum posteri
+│   └── proje Posteri.pdf   
 ├── README.md
 
