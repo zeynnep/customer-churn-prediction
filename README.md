@@ -32,4 +32,4 @@ SHAP analizleri sonucunda belirlenen en önemli faktörler ışığında şu str
 ├── docs/
 │   └── proje_posteri.pdf     # 3.'lük getiren proje sunum posteri
 ├── README.md
-└── requirements.txt          # Proje bağımlılıkları ve Python kütüphaneleri
+
